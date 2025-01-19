@@ -13,7 +13,7 @@ Welcome to the **Filmopedia** – your gateway to the world of cinema! Dive into
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Tailwind CSS (or your preferred CSS framework)
-- **API**: The Movie Database (TMDb) API
+- **API**: The Movie Database (OMDb) API
 - **State Management**: React Context API (or Redux for advanced needs)
 - **Routing**: React Router
 
@@ -21,7 +21,7 @@ Welcome to the **Filmopedia** – your gateway to the world of cinema! Dive into
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdus-8747/movies-app.git
+   git clone https://github.com/Abdus-8747/Filmopedia_Movies_App
    ```
 2. Navigate to the project directory:
    ```bash
