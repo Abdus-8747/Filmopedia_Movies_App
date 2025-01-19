@@ -21,7 +21,7 @@ Welcome to the **Filmopedia** – your gateway to the world of cinema! Dive into
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdus-8747/movies-app.git
+   git clone https://github.com/Abdus-8747/Filmopedia_Movies_App.git
    ```
 2. Navigate to the project directory:
    ```bash
