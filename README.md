@@ -13,7 +13,7 @@ Welcome to the **Filmopedia** – your gateway to the world of cinema! Dive into
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Tailwind CSS (or your preferred CSS framework)
-- **API**: The Movie Database (TMDb) API
+- **API**: The Movie Database (OMDb) API
 - **State Management**: React Context API (or Redux for advanced needs)
 - **Routing**: React Router
 
